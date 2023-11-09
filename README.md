@@ -4,6 +4,7 @@ Simple payroll system implemented using java swing.
 <br>
 <img src="payroll.png">
 <br>
+
 # How to use
 <ul>
   <li>Clone the repo to your computer</li>
