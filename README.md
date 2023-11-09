@@ -2,7 +2,7 @@
 Simple payroll system implemented using java swing.
 
 <br>
-<img src="">
+<img src="payroll.png">
 <br>
 # How to use
 <ul>
@@ -11,6 +11,7 @@ Simple payroll system implemented using java swing.
   <li>Run the following commands</li>
   <br>
     $ javac main.java
+  <br>
     $ java main
   <br>
   <li>Type your inputs and calculate away</li>
