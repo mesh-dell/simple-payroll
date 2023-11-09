@@ -2,7 +2,7 @@
 Simple payroll system implemented using java swing.
 
 <br>
-<img src="payroll.png">
+<img src="pr.png">
 <br>
 
 # How to use
