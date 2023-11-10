@@ -14,6 +14,6 @@ Simple payroll system implemented using java swing.
 * `$ javac main.java`
 * `$ java main`
 
-  <li>Type your inputs and calculate away</li>
+<li>Type your inputs and calculate away</li>
 </ul>
 
