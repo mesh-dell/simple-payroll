@@ -11,11 +11,9 @@ Simple payroll system implemented using java swing.
   <li>Open a terminal in the cloned directory</li>
   <li>Run the following commands</li>
   
-* `make && make install && make clean`
+* `$ javac main.java`
 * `$ java main`
-  
-  <br>
-  <br>
+
   <li>Type your inputs and calculate away</li>
 </ul>
 
